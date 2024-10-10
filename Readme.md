@@ -17,8 +17,8 @@ This is a simple Telegram bot built using Node.js and the `node-telegram-bot-api
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+``bash
+git clone https://github.com/your-username/your-repo-name.git``
 cd your-repo-name
 
 2. Install all the dependencies.
